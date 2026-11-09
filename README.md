@@ -78,8 +78,10 @@ Keamanan Query (Prepared Statements): Sesuai aturan modul, seluruh metode CRUD d
 - view/ (Modular GUI): Elemen HTML dibuat modular. header.php dan footer.php dipanggil di setiap halaman agar struktur tampilan konsisten tanpa penulisan kode berulang (Don't Repeat Yourself / DRY).
 
 **5. Dokumentasi Pengujian Fitur**
-
-
+<img width="959" height="272" alt="ss4" src="https://github.com/user-attachments/assets/43c97c90-5a9d-4a0a-81b3-942bf818b53d" />
+<img width="959" height="395" alt="ss1" src="https://github.com/user-attachments/assets/70938746-7c70-437c-8984-9f2f01f836f6" />
+<img width="937" height="311" alt="ss2" src="https://github.com/user-attachments/assets/2a29fb84-683c-430d-85f6-a259bf13bbbe" />
+<img width="959" height="353" alt="ss3" src="https://github.com/user-attachments/assets/5189abb9-baae-46ee-a170-6fa417a525cb" />
 
 
 
