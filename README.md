@@ -83,5 +83,10 @@ Keamanan Query (Prepared Statements): Sesuai aturan modul, seluruh metode CRUD d
 <img width="937" height="311" alt="ss2" src="https://github.com/user-attachments/assets/2a29fb84-683c-430d-85f6-a259bf13bbbe" />
 <img width="959" height="353" alt="ss3" src="https://github.com/user-attachments/assets/5189abb9-baae-46ee-a170-6fa417a525cb" />
 
+**Edit:**
+<img width="959" height="391" alt="ss5" src="https://github.com/user-attachments/assets/0df9fd5a-78e8-4e46-92df-0104a1217393" />
+
+**Delete:**
+<img width="941" height="368" alt="ss6" src="https://github.com/user-attachments/assets/5f8dc093-d3af-4563-a776-1dc0b5918574" />
 
 
